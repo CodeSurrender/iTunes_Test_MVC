@@ -13,7 +13,7 @@ class MediaView: MediaProcession {
     
     // pull, commit, push, pull
     // 123
-    //Pull request
+    // Playstation 5
     
     //New label made
     var yagmurIsAwesome = UILabel()
