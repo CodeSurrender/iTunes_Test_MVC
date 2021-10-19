@@ -14,6 +14,7 @@ class MediaView: MediaProcession {
     // pull, commit, push, pull
     // 123
     // Playstation 5
+    // Apple
     
     //New label made
     var yagmurIsAwesome = UILabel()
