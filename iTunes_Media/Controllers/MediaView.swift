@@ -12,7 +12,8 @@ import UIKit
 class MediaView: MediaProcession {
     
     // pull, commit, push, pull
-        // Binal Training
+    // 123
+    //Pull request
     
     //New label made
     var yagmurIsAwesome = UILabel()
